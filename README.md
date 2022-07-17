@@ -1,21 +1,21 @@
-```[paradox@archlinux ~]$ neofetch
+```[neksio@github ~]$ neofetch
 
-                    -@                    paradox@archlinux
+                    -@                    neksio@information
                    .##@                   -----------------
-                  .####@                  Username: Kaneki Web
-                  @#####@                 Alias: Kaneki, Paradox
-                . *######@                Discord: https://discord.gg/BTdFXbZ9t7
-               .##@o@#####@               Website: https://kanekiweb.tk/
+                  .####@                  Username: neksio
+                  @#####@                 Age: 13
+                . *######@                Country: Poland
+               .##@o@#####@               Website: https://neksio.gq/
               /############@            
-             /##############@             paradox@archlinux
+             /##############@             neksio@technologies
             @######@**%######@            -----------------
-           @######`     %#####o           Frontend: 7/10
-          @######@       ######%          Backend: 6/1O
-        -@#######h       ######@.`        Python: 8/10
-       /#####h**``       `**%@####@       CSharp: 5/10
+           @######`     %#####o           HTML: 4/10
+          @######@       ######%          Python: 7/10
+        -@#######h       ######@.`        C#: 3/10
+       /#####h**``       `**%@####@       Brain: -1/10
       @H@*`                    `*%#@    
-     *`                            `*     Infos: 16yo Freelance and self-taught developer, founder of Skulldev.ga !```
+     *`                            `*     ```
 
-[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-4/987337901182418954.png)](https://discord.com)
+<center>[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-4/987337901182418954.png)](https://discord.com)</center>
 
 
