@@ -15,7 +15,8 @@
         -@#######h       ######@.`        🔑 C#: 3/10
        /#####h**``       `**%@####@       🧠 Brain: -1/10
       @H@*`                    `*%#@    
-     *`                            `*     ```
+     *`                            `*     
+```
 
 <center>[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-4/987337901182418954.png)](https://discord.com)</center>
 
