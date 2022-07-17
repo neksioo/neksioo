@@ -1,4 +1,5 @@
-```[neksio@github ~]$ neofetch
+```css
+[neksio@github ~]$ neofetch
 
                     -@                    neksio@information
                    .##@                   -----------------
