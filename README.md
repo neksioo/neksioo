@@ -6,7 +6,7 @@
                   .####@                  👥 Username: neksio
                   @#####@                 🔞 Age: 13
                 . *######@                🌍 Country: Poland
-               .##@o@#####@               🌐Website: https://neksio.gq/
+               .##@o@#####@               🌐 Website: https://neksio.gq/
               /############@            
              /##############@             neksio@technologies
             @######@**%######@            ───────────────────
